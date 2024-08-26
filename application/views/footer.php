@@ -80,21 +80,19 @@
 <footer class="footer-no-negative wf-section">
     <div>
         <div style="max-width: 90%;margin:auto;">
-
             <div class="  footer-row-1 row tc m-0" style="    justify-content: space-around;">
                 <div class="col-md-4  mb-3 mt-3" style="color:black;">
                     <img src="assets/img/logof.png" alt="" width="100">
                     <div class="info mt-4 col-md-12  row">
                         <div class="phone row col-md-12 col-12 m-0 pt-md-0 pt-2" style="align-items: center;">
-                            <h6 class="col-md-2 col-2" style="font-weight: 700;"><span><i
-                                        class="bi bi-phone"></i> &nbsp;</span>
+                            <h6 class="col-md-2 col-2" style="font-weight: 700;"><span><i class="bi bi-phone"></i>
+                                    &nbsp;</span>
                             </h6>
-                            <p class="col-md-10 col-10 p-0" >
+                            <p class="col-md-10 col-10 p-0">
                                 <a href="" style="color:#000 !important;">+91 98765 43210</a><br>
                             </p>
                         </div>
                         <div class="email row col-md-12 m-0 pt-md-0 pt-2" style="align-items: center;">
-
                             <h6 class="col-md-2 col-2" style="font-weight: 700;"><span><i
                                         class="bi bi-globe-americas"></i>
                                     &nbsp;</span></h6>
@@ -102,80 +100,68 @@
                             </p>
                         </div>
                         <div class="address row col-md-12 m-0" style="align-items: center;">
-
-                            <h6 class="col-md-2 col-2" style="font-weight: 700;"><span><i
-                                        class="bi bi-geo-alt"></i>
+                            <h6 class="col-md-2 col-2" style="font-weight: 700;"><span><i class="bi bi-geo-alt"></i>
                                 </span></h6>
                             <p class="col-md-10 col-10 p-0">PROSOFT LLC,
                                 Office No 10, Level 1,
                                 Sharjah Media City, Sharjah,UAE</p>
                         </div>
-
-                       
-                        
                     </div>
-
                 </div>
                 <div class=" row col-md-8 mt-md-3 mb-md-3 mb-0 mt-0">
                     <div class="col-lg-3 col-md-6 col-6  mt-2  tc">
                         <div class="div-block-1463">
                             <div class="footer-title">Sitemap</div>
-                            
                         </div>
                         <div class="col-footer ">
-
                             <a href="<?php echo base_url(''); ?>" class="footer-links mt-16">Home</a>
-                            <a href="" class="footer-links mt-16">About</a>
-
-                            <a href="" class="footer-links mt-16">Services</a>
-                            <a href="" class="footer-links mt-16">Product</a>
-
-                            <a href="" class="footer-links mt-16">News</a>
-                            <a href="" class="footer-links mt-16">Contact </a>
-
-
-
+                            <a href="<?php echo base_url('About_Us'); ?>" class="footer-links mt-16">About</a>
+                            <a href="<?php echo base_url('Services'); ?>" class="footer-links mt-16">Services</a>
+                            <a href="<?php echo base_url('Product'); ?>" class="footer-links mt-16">Product</a>
+                            <a href="<?php echo base_url('News'); ?>" class="footer-links mt-16">News</a>
+                            <a href="<?php echo base_url('Contact'); ?>" class="footer-links mt-16">Contact </a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-6  mt-2  tc">
                         <div class="div-block-1463">
                             <div class="footer-title">Useful links</div>
-                            
                         </div>
                         <div class="col-footer ">
 
-                            <a href="" class="footer-links mt-16">Accreditation info</a>
-                            <a href="" class="footer-links mt-16">Accreditation Process</a>
+                            <a href="<?php echo base_url('Accreditation'); ?>" class="footer-links mt-16">Accreditation
+                                info</a>
+                            <a href="<?php echo base_url('Accreditation_Process'); ?>"
+                                class="footer-links mt-16">Accreditation Process</a>
 
-                            <a href="" class="footer-links mt-16">Copyright Notice
+                            <a href="<?php echo base_url('Copyright'); ?>" class="footer-links mt-16">Copyright Notice
                             </a>
-                            <a href="" class="footer-links mt-16">Privacy Policy</a>
-
-                            <a href="" class="footer-links mt-16">Terms & Services</a>
-
-
-
+                            <a href="<?php echo base_url('Privacy'); ?>" class="footer-links mt-16">Privacy Policy</a>
+                            <a href="<?php echo base_url('Terms'); ?>" class="footer-links mt-16">Terms & Services</a>
                         </div>
-                        
+
                     </div>
                     <div class="col-lg-5 col-md-12 col-12 mt-2  tc">
                         <div class="div-block-1463">
                             <div class="footer-title">Subscribe</div>
-                            
+
                         </div>
                         <div class="col-footer">
-<p>Stay connected with us and receive all updates directly in your inbox.</p>
-<form action="" method="post" class="footer-form " style="align-items: center;display: flex;">
+                            <p>Stay connected with us and receive all updates directly in your inbox.</p>
+                            <form action="" method="post" class="footer-form "
+                                style="align-items: center;display: flex;">
 
-    <input type="email" style="width:80%;border:none; border-radius: 0px;    background: #eeeeee;" class="text-field w-input" maxlength="256" name="email" placeholder="eg. emailadd@email.com" required="" fdprocessedid="s494sn">
-<button type="submit" class="sub-send sub-send-btn-trigger  ml-0" style="border-radius: 0px;width:20%;margin-left:0px;    background: #f6aa00;">→</button>
-    
-</form>
-<div class="col-12 mt-5 row">
-    <div class="col-md-3 text-center"><img src="assets/img/fac.png" alt=""></div>
-    <div class="col-md-3 text-center"><img src="assets/img/wha.png" alt=""></div>
-    <div class="col-md-3 text-center"><img src="assets/img/ins.png" alt=""></div>
-</div>
+                                <input type="email"
+                                    style="width:80%;border:none; border-radius: 0px;    background: #eeeeee;"
+                                    class="text-field w-input" maxlength="256" name="email"
+                                    placeholder="eg. emailadd@email.com" required="" fdprocessedid="s494sn">
+                                <button type="submit" class="sub-send sub-send-btn-trigger  ml-0"
+                                    style="border-radius: 0px;width:20%;margin-left:0px;    background: #f6aa00;">→</button>
+                            </form>
+                            <div class="col-12 mt-5 row">
+                                <div class="col-md-3 text-center"><img src="assets/img/fac.png" alt=""></div>
+                                <div class="col-md-3 text-center"><img src="assets/img/wha.png" alt=""></div>
+                                <div class="col-md-3 text-center"><img src="assets/img/ins.png" alt=""></div>
+                            </div>
                         </div>
                     </div>
                 </div>

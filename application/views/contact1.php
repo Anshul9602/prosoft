@@ -41,8 +41,8 @@
 
 <main id="main">
   <div class="mainimg" style="position: relative;background:black;">
-    <img src="assets/img/contact.jpg" alt width="100%"
-      style="    opacity: 0.4;">
+    <img src="assets/img/Contact.png" alt width="100%"
+      style="    opacity: 0.8;">
     <div class="over"
       style="position: absolute;  top: 50%;left: 50%; transform: translate(-50%, -50%)">
       <h1 class="h0 mt-30 mt-4 mtt"> <span class="orange text-white">Contact
@@ -63,8 +63,8 @@
               <h6 class="col-md-12 col-12" style="font-weight: 700;"><span><i
                     class="bi bi-geo-alt"></i>
                   &nbsp;</span>Location:</h6>
-              <p class="col-md-12 col-12"> 207, 222, IInd Floor, Ganpati Plaza,
-                M.I.Road, Jaipur-302001</p>
+              <p class="col-md-12 col-12"> 
+              PROSOFT LLC, Office No 10, Level 1, Sharjah Media City, Sharjah,UAE</p>
             </div>
 
             <div class="email row mt-md-4 mt-3">
@@ -72,7 +72,7 @@
               <h6 class="col-md-12 col-12" style="font-weight: 700;"><span><i
                     class="bi bi-envelope"></i>
                   &nbsp;</span>Email:</h6>
-              <p class="col-md-12 col-12"> info@vsc.co.in
+              <p class="col-md-12 col-12"> admin@prosoft.org.in
               </p>
             </div>
 
@@ -81,8 +81,8 @@
               <h6 class="col-md-12 col-12" style="font-weight: 700;"><span><i
                     class="bi bi-phone"></i> &nbsp;</span>Call:
               </h6>
-              <p class="col-md-12 col-12">+91 -141 2389290,<br>
-                +91 141 4009291</p>
+              <p class="col-md-12 col-12">
+              +91 98765 43210</p>
             </div>
 
           </div>

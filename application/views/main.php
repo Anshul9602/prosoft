@@ -16,13 +16,13 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   section {
     z-index: 999;
   }
-  
+
   .header {
-    background: rgba(7,27,48, 0.2);
-       box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    background: rgba(7, 27, 48, 0.2);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
-    border: 1px solid rgba(7,27,48, 0.3);
+    border: 1px solid rgba(7, 27, 48, 0.3);
     position: absolute;
   }
 
@@ -414,7 +414,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 
 </div>
 <section>
-  <div class="container  pump">
+  <div class="container">
     <h1 class=" text-center" style="font-weight: 700;">An all in one<br> software solution.</h1>
 
     <p class="text-center">Prosoft’s Hospital Information System delivers complete, reliable solutions for medical
@@ -429,7 +429,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   </div>
 </section>
 <section>
-  <div class="container  pump">
+  <div class="container">
     <h1 class=" text-center" style="font-weight: 700;text-transform: capitalize;;">services we offer.</h1>
 
 
@@ -456,27 +456,35 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       <div class="col-md-5 mt-3">
         <img src="assets/img/s7.png" alt="" width="100%">
       </div>
-    
+
 
     </div>
 
   </div>
 </section>
 <section>
-  <img src="assets/img/sl.png" alt="" width="100%">
+  <div class="container">
+    <h1 class=" text-center" style="font-weight: 700;">Trusted by Leading Healthcare<br> Providers Worldwide.</h1>
+    <div class="row mt-md-5 mt-3 asds" style="width: 100%;">
+
+
+      <img src="assets/img/tru.png" alt="" width="100%">
+    </div>
+
+  </div>
 </section>
 <section>
-  <div class="container  pump">
-    <h1 class=" text-center" style="font-weight: 700;">About Us    </h1>
+  <div class="container">
+    <h1 class=" text-center" style="font-weight: 700;">About Us </h1>
 
-    
+
 
     <div class="row mt-md-5 mt-3 asds" style="width: 100%;">
 
       <div class="col-md-7">
-   <img src="assets/img/text.png" alt="">
-   <br><br>
-          <a href="#" class="ban mt-4" style="background-color: #f6aa00;color:#000;">Learn More</a>
+        <img src="assets/img/text.png" alt="">
+        <br><br>
+        <a href="#" class="ban mt-4" style="background-color: #f6aa00;color:#000;">Learn More</a>
       </div>
       <div class="col-md-5"><img src="assets/img/abb.png" alt="" width="100%"></div>
     </div>
@@ -484,14 +492,14 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   </div>
 </section>
 <section>
-  <div class="container  pump">
+  <div class="container">
     <h1 class=" text-center" style="font-weight: 700;">Trusted by Leading Healthcare<br> Providers Worldwide.</h1>
 
-    
+
 
     <div class="row mt-md-5 mt-3 asds" style="width: 100%;">
 
-      
+
       <img src="assets/img/tru.png" alt="" width="100%">
     </div>
 

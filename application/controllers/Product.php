@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Network extends CI_Controller {
+class Product extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -22,7 +22,7 @@ class Network extends CI_Controller {
 	{
 		$this->load->helper('url');
 		$this->load->view('Header');
-		$this->load->view('network');
+		$this->load->view('product');
 		$this->load->view('footer');
 	}
 	 

@@ -84,28 +84,28 @@
 
                 <ul style="width: 100%; justify-content: space-around;">
                     <li><a href="<?php echo base_url(); ?>">Home</a></li>
-                    <li><a href="<?php echo base_url(); ?>">About</a></li>
+                    <li><a href="<?php echo base_url('About_Us'); ?>">About</a></li>
                     
-                    <li class="dropdown"><a href="">Services <i
+                    <li class="dropdown"><a href="<?php echo base_url('Services'); ?>">Services <i
                                 class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="">Service1</a></li>
-                            <li><a href="">Service2</a></li>
+                            <li><a href="<?php echo base_url('Services'); ?>">Service1</a></li>
+                            <li><a href="<?php echo base_url('Services'); ?>">Service2</a></li>
                            
                         </ul>
                     </li>
-                    <li class="dropdown"><a href="">Product <i
+                    <li class="dropdown"><a href="<?php echo base_url('Product'); ?>">Product <i
                                 class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="">Product1</a></li>
-                            <li><a href="">Product2</a></li>
+                            <li><a href="<?php echo base_url('Product'); ?>">Product1</a></li>
+                            <li><a href="<?php echo base_url('Product'); ?>">Product2</a></li>
                            
                         </ul>
                     </li>
 
-                    <li><a href="<?php echo base_url(''); ?>">News</a></li>
+                    <li><a href="<?php echo base_url('News'); ?>">News</a></li>
                   
-                    <li><a href="" class="contact"
+                    <li><a href="<?php echo base_url('Contact'); ?>" class="contact"
                             style="color:#000;color:#fff;">Contact</a></li>
               
 
